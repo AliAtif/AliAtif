@@ -4,7 +4,7 @@
 
 - 📫 Contact me on 
 
-     <a href="ton lien linkedin">
+     <a href="https://www.linkedin.com/in/atif-ali-192a7b203/">
        <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
      </a>
 
